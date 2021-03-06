@@ -250,7 +250,7 @@ if __name__ == "__main__":
                  }
     # ref_dir = r"F:\dataset\CASIA\test_database_4"
     # ref_dir = r"D:\dataset\CASIA\test_xxx_2"
-    ref_dir = r"C:/Python_Projects/0Realtime_FaceRec_Desktop/Realtime_test"
+    ref_dir = r"C:/Python_Projects/Realtime_FaceRec_Desktop/Realtime_test"
     app.run(debug=True)
     # stream(pb_path, node_dict, ref_dir, camera_source=camera_source, resolution="720", to_write=False, save_dir=None)
 
