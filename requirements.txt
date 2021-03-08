@@ -2,4 +2,4 @@ numpy==1.19.2
 Flask==1.1.2
 opencv_python==4.3.0.38
 matplotlib==3.3.2
-tensorflow==1.7.0
+tensorflow==1.13.1
